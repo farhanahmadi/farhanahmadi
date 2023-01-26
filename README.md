@@ -8,7 +8,6 @@ hello my name is farhan ahmadi. im front end developer with 2 years of professio
 
 * 🌍  I'm based in Iran Urmia
 * ✉️  You can contact me at [farhnahmdi@gmail.com](mailto:farhnahmdi@gmail.com)
-* 🧠  I'm learning React Native , Next Js
 * ⚡  i love Photography & playing Video games
 
 ### Skills
